@@ -6,11 +6,11 @@ I'm an iOS & Web Developer
 ## Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=swift,html,css,java&perline=4)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=swift,html,css,java)](https://skillicons.dev)
 
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,firebase&perline=4)](https://skillicons.dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,figma,firebase)](https://skillicons.dev)
 
 
 ---
