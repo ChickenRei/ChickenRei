@@ -25,7 +25,7 @@ Here are some projects I've worked on:
    - Technologies used: Assembly
    - Link: [Project Link](https://chickenrei.github.io/CipherCommand)
 
-3. **Cyber Cloud**: Description of the project
+3. **Cyber Cloud**: Open-source project for creating your own cloud storage on the web using Firebase
    - Technologies used: HTML, CSS, JavaScript, Firebase
    - Link: [Project Link](https://github.com/ChickenRei/Cyber-Cloud-OpenSource)
    
