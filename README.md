@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Daniel
+# Hi 👋, I'm Daniel
 
 I'm an iOS & Web Developer
 
