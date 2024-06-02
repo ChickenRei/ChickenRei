@@ -1,17 +1,30 @@
-<h1 align="left">Hi 👋, I'm Daniel</h1>
-<h4 align="left"> iOS & Web Developer</h4>
+# Hi there 👋, I'm Daniel
+
+I'm an iOS & Web Developer
+
+
+## Skills
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=swift,html,css,java&perline=4)](https://skillicons.dev)
+
+
+### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,firebase&perline=4)](https://skillicons.dev)
+
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+## Projects
 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</p>
+Here are some projects I've worked on:
 
+1. **Cipher Command**:
+   a command-line tool for encrypting and decrypting text using the Tiny Encryption Algorithm (TEA). Featuring a user-friendly interface for performing
+   encryption and decryption tasks directly from the terminal.
+   - Technologies used: Assembly
+   - Link: [Project Link](https://chickenrei.github.io/CipherCommand)
+
+3. **Cyber Cloud**: Description of the project
+   - Technologies used: HTML, CSS, JavaScript, Firebase
+   - Link: [Project Link]([https://example.com](https://github.com/ChickenRei/Cyber-Cloud-OpenSource))
