@@ -5,4 +5,4 @@
 
 
 ### Tools & Technologies
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,figma,firebase,vscode)](https://skillicons.dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,pycharm)](https://skillicons.dev)
